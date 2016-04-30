@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./booksvvivii00livyuoft_0447.png"; bbox 0 0 2912 4368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1396 1440 2154 2596">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1396 1440 2154 2596">
+     <span class='ocr_line' id='line_1_1' title="bbox 1396 1440 2154 2596; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1396 1440 2154 2596; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 137 2019 437 3373">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 254 2019 437 2453">
+     <span class='ocr_line' id='line_1_2' title="bbox 254 2019 280 2045; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 254 2019 280 2045; x_wconf 66' lang='grc' dir='ltr'><em>δ</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 397 2410 437 2453; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 397 2410 437 2453; x_wconf 55' lang='grc' dir='ltr'><strong>ἱ.</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 179 2796 210 2819">
+     <span class='ocr_line' id='line_1_4' title="bbox 179 2796 210 2819; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 179 2796 210 2819; x_wconf 64' lang='lat' dir='ltr'>d</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 169 2892 180 2927">
+     <span class='ocr_line' id='line_1_5' title="bbox 169 2892 180 2927; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 169 2892 180 2927; x_wconf 70' lang='grc' dir='ltr'><strong>ι</strong></span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 137 2997 408 3373">
+     <span class='ocr_line' id='line_1_6' title="bbox 161 2997 373 3021; baseline 0.009 -2"><span class='ocrx_word' id='word_1_6' title='bbox 161 2997 182 3019; x_wconf 71' lang='lat' dir='ltr'><em>V</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 371 3018 373 3021; x_wconf 92' lang='lat'>.</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 164 3084 408 3158; baseline 0 -28"><span class='ocrx_word' id='word_1_8' title='bbox 164 3105 187 3130; x_wconf 72' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_9' title='bbox 303 3084 408 3158; x_wconf 47' lang='grc' dir='ltr'><strong>θ’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 147 3166 327 3236; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 147 3166 327 3236; x_wconf 13' lang='grc' dir='ltr'><strong>ιλ.-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_9' title="bbox 137 3321 306 3373; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 137 3321 163 3357; x_wconf 62' lang='grc'><strong>““</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 277 3338 306 3373; x_wconf 46' lang='lat' dir='ltr'><em>z</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 3326 1262 4241">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 3326 1262 4241">
+     <span class='ocr_line' id='line_1_10' title="bbox 0 3326 1262 4241; baseline 0 -553"><span class='ocrx_word' id='word_1_13' title='bbox 0 3539 394 4241; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 850 3326 1262 3688; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
